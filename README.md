@@ -14,4 +14,4 @@ Todos os conteúdos dados em aulas estarão no seu respectivo Pull Request!
 
 ### Objetivo
 
-Testar a biblioteca do react test library e fazer os testes da aplicação!
+Testar a biblioteca do react test library e fazer os testes da aplicação!!
